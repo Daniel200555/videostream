@@ -1,0 +1,6 @@
+services:
+  rmtp:
+    image: danilserenok/rmtp:release
+    ports:
+      - "8080:8080"
+
